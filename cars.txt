@@ -1,1 +1,3 @@
 Toyota Corolla
+BMW GitLocalRepo
+BMW X6 GitLocalRepo
