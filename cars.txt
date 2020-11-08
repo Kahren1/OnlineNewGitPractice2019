@@ -6,3 +6,5 @@ Kia Optima Local Repo
 Mazda 3 Local Repo
 Lexus GX70 Remote
 Honda Local Kahren
+Subaru Remote Vasya
+
