@@ -2,3 +2,4 @@ Toyota Corolla
 Tesla GitHub
 BMW GitLocalRepo
 BMW X6 GitLocalRepo
+Mercedes S500 Remote Repo
