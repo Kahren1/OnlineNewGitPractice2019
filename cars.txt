@@ -3,3 +3,4 @@ Tesla GitHub
 BMW GitLocalRepo
 BMW X6 GitLocalRepo
 Kia Optima Local Repo
+Lexus GX70 Remote
