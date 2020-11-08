@@ -3,8 +3,4 @@ mango
 dragon fruit
 apple
 mandarin
-<<<<<<< HEAD
-appleGitLocalRepo
-=======
-pearGitHub
->>>>>>> 937fdc16a750661e54db71602d2706d91fa078b2
+pearGitHubRemoteRepo
