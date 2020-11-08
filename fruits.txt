@@ -5,3 +5,4 @@ apple
 mandarin
 pearGitHubRemoteRepo
 pearGitLocalRepo
+pear2GilLocalRepo
